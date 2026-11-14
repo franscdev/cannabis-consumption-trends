@@ -1,0 +1,58 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Local review files
+project_structure.txt
+repository_review.txt
+
+# Temporary source code review files
+source_code_review.txt
+
+# Source datasets pending redistribution verification
+data/raw/*.csv
+data/processed/*.csv
+
+# Temporary visualization tests
+reports/figures/test_visualization.png

@@ -1,0 +1,18 @@
+# Data processing
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistical analysis
+scipy
+
+# Jupyter notebooks
+jupyter
+ipykernel
+
+# Notebook reproducibility testing
+nbformat
+nbclient
